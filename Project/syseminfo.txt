@@ -1,0 +1,65 @@
+Public IP Address: 103.246.40.79Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.1.108
+Public IP Address: 103.246.40.79Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.1.108
+Public IP Address: 103.246.40.79Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.1.108
+Public IP Address: 103.246.40.79Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.1.108
+Public IP Address: 103.246.40.79Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.1.108
+Public IP Address: 103.246.40.79Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.1.108
+Public IP Address: 103.246.40.79Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.1.108
+Public IP Address: 103.246.40.79Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.1.108
+Public IP Address: 103.246.40.79Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.1.108
+Public IP Address: 103.246.40.79Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.1.108
+Public IP Address: 103.246.40.79Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.1.108
+Public IP Address: 106.220.237.28Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.137.191
+Public IP Address: 106.220.237.28Processor Information: Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+System: Windows 10.0.19041
+Machine: AMD64
+Hostname: RUTWIJ-NITRO
+Private IP: 192.168.15.136
